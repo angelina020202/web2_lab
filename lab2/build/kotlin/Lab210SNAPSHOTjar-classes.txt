@@ -1,0 +1,1 @@
+C:\Users\Ангелина\Downloads\Web_lab2-master\Web_lab2-master\build\classes\kotlin\main\JsonConverter.class;C:\Users\Ангелина\Downloads\Web_lab2-master\Web_lab2-master\build\classes\kotlin\main\Person.class;C:\Users\Ангелина\Downloads\Web_lab2-master\Web_lab2-master\build\classes\kotlin\main\PersonTest.class
